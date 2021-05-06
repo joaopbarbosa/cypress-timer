@@ -1,4 +1,4 @@
-# cypress-timer
+# cypress-timer ⏱️ 
 As a Test Automation Engineer working with Cypress.io I've been strugling to find some solutions for my problems. 
 This was one of my first challenges, trying to find a way to create a counter for each specific it() test in Cypress.io. On this way
 I'm sharing with all of you a project demo were I create some comands to facilitate this process to start our timer counting and end the 
